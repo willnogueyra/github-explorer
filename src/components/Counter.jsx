@@ -5,7 +5,7 @@ import { useState } from "react";
 /* 
   por exemplo:
   usuarios = ['diego3g', 'dieegosf', 'danileao']
-  
+
   no javascript, adicionaria com push
   usuarios.push('rafacamarda') e adiciona no final da array alterando usuarios
 
